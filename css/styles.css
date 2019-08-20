@@ -1,0 +1,51 @@
+body {
+    background-color: yellow;
+}
+
+.container-wrapper {
+    text-align: center;
+
+}
+.col {
+    border: 1px solid white;
+    height: 2.5em;
+    text-align: center;
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    height: 10em;
+}
+
+.nav {
+    background-color: green;
+    color: white;
+    height: 4em;
+}
+
+.content {
+    background-color: red;
+    color: white;
+    height: 16em;
+}
+
+.aside {
+    background-color: aqua;
+    color: black;
+    height: 16em;
+}
+
+.promo {
+    background-color: orange;
+    color: white;
+    height: 10em;
+    
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    height: 4em
+    
+}
